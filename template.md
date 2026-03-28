@@ -11,13 +11,13 @@ End Time: [[END_TIME]]
 [[ABSTRACT_REPORT]]
 ```
 
-## User Rankings
-
-[[USER_RANKING_TABLE]]
-
 ## Team Rankings
 
 [[TEAM_RANKING_TABLE]]
+
+## User Rankings
+
+[[USER_RANKING_TABLE]]
 
 ## Contests
 
